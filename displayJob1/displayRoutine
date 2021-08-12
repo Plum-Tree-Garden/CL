@@ -1,0 +1,9 @@
+PGM
+
+        /* DISPLAY LIBRARY LIST */
+        DSPLIBL
+        
+        /* DISPLAY LIBRARY */ 
+        DSPLIB
+        
+ENDPGM
