@@ -2,4 +2,6 @@
 Control Language
 
 
-**displayjob1** Simple routine to display library lists and libraries
+**displayjob1** 
+-------------
+    Simple routine to display library lists and libraries
